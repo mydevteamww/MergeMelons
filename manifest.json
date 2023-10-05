@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Play Merge Melons By ChronoBit Studios",
+  "description": "Play Merge:Melons By Nexus Nova Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Merge - Melons",
+  "name": "Merge:Melons",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Merge - Melons",
+  "short_name": "Merge:Melons",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Merge - Melons",
+      "name": "Merge:Melons",
       "url": "",
       "description": ""
     }
